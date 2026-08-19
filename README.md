@@ -20,4 +20,5 @@ Write-ups focus on triage reasoning and analyst decision-making — not
 step-by-step solutions. No flags or challenge answers are shared.
 
 ## Contact
-[LinkedIn] · [Email]
+LinkedIn [https://www.linkedin.com/in/nicklas-christoffersen1409/] 
+Email    [nickdahchris@gmail.com]
