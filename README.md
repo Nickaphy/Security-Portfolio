@@ -10,8 +10,8 @@ running log of practical skill-building.
 ## Structure
 | Folder | Contents |
 |--------|----------|
-| [`tryhackme-sal1/`](./tryhackme-sal1) | Write-ups from TryHackMe's SOC Level 1 path (SAL1) |
-| [`homelab/`](./homelab) | Self-built scenarios and investigations |
+| [`TryHackMe-Sal1/`](./TryHackMe-Sal1) | Write-ups from TryHackMe's SOC Level 1 path (SAL1) |
+| [`HomeLab/`](./HomeLab) | Self-built scenarios and investigations |
 
 *More folders will be added as new focus areas develop.*
 
