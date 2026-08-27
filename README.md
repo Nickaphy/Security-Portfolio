@@ -1,6 +1,6 @@
 # Security Portfolio
-Documenting my hands-on path into SOC analysis and blue team security — 
-built through TryHackMe, homelab scenarios, and self-directed investigation.
+Documenting my hands-on path into SOC analysis and blue team security —  
+homelab scenarios, and self-directed investigation.
 
 I'm a Danish IT student (datamatiker) working toward an entry-level SOC 
 Analyst role, and broader blue team security with a longer-term interest in cloud security. This repo 
