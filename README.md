@@ -10,10 +10,7 @@ running log of practical skill-building.
 ## Structure
 | Folder | Contents |
 |--------|----------|
-| [`TryHackMe-Sal1/`](./TryHackMe-Sal1) | Write-ups from TryHackMe's SOC Level 1 path (SAL1) |
-| [`HomeLab/`](./HomeLab) | Self-built scenarios and investigations |
-
-*More folders will be added as new focus areas develop.*
+|BTLO 
 
 ## Approach
 Write-ups focus on triage reasoning and analyst decision-making — not 
